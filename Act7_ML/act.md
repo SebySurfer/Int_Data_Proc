@@ -1,9 +1,3 @@
-It sounds like you're looking for a **Jupyter Notebook** (a `.ipynb` file) or a **Markdown** (`.md`) file. These are the gold standards for taking notes while coding because they allow you to mix formatted text, math, and code blocks.
-
-Since I can't directly hand you a downloadable file, I have converted the instructions from your PDF into a **Markdown** structure. You can copy and paste this into any code editor (like VS Code) or a Jupyter Notebook cell.
-
----
-
 # Business Performance Analysis using ML
 
 **Models:** Linear, Logistic, and Bayesian
@@ -86,5 +80,3 @@ Develop three distinct models using a real economic dataset to explore business 
 - **Policy Impact:** Which of the three models is most useful for a public policy maker?
 
 ---
-
-**Would you like me to help you write the Python code for the first step, such as loading and cleaning the WBES dataset?**
